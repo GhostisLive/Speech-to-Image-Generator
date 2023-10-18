@@ -1,0 +1,5 @@
+__pycache__
+flask_*
+*.json
+.env
+key.py
