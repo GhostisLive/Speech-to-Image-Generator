@@ -1,7 +1,7 @@
-# Add a `key.py` file before running the program.
+# Follow the steps below after cloning this repository.
 
-`key.py`
+1. Run `env.py` file for the first time. This will create a `.env` file.
 
-```py
-api_key="YOUR API KEY HERE"
-```
+2. Edit the keys according to your need. Database settings are prefixed with `SQL`, and the api key is `OPENAIAUTHKEY`. Until you know what you are doing, do not edit `EMAILADDR` and `APPPASSWD`.
+
+3. Run `main.py` to start the server.
