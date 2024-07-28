@@ -24,7 +24,3 @@ It involves steps namely data collection,data processing,Building and Training t
 
 %bIn summary, image generation involves the creation of new images, while searching in browser Images is about finding and accessing pre-existing images from the web. They serve different purposes and utilize distinct technologies and processes.
 
-Created by:
-Rwitabrato Hanpal
-Spandan Nath
-PASTUSEDBY
